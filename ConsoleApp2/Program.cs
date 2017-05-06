@@ -13,8 +13,8 @@ namespace NewsParser
     {
         static void Main(string[] args)
         {
-            OverclockersUA a = new OverclockersUA();
-            OverclockersUA.StartParse();
+            OverclockersUA overclockersUA = new OverclockersUA();
+            overclockersUA.StartParse();
         }
         
     }
