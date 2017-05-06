@@ -1,0 +1,7 @@
+$$Обход улучшенной версии DRM-защиты Denuvo занял у хакеров две недели$$
+
+					Компанию Denuvo Software Solutions, ответственную за разработку одноимённой DRM-защиты, продолжают преследовать неудачи. Спустя две недели после выхода ролевого боевика Mass Effect: Andromeda хакерам удалось взломать полностью переработанную версию Denuvo, встроенную в новый AAA-проект от BioWare.
+
+Напомним, что после череды взломов, в ходе которой хакерам удалось обойти защиту хоррора Resident Evil 7 всего за пять дней, руководство Denuvo Software Solutions объявило о планах полностью переделать свою систему DRM-защиты. Помимо Mass Effect: Andromeda улучшенная версия Denuvo нашла применение в играх Sniper Ghost Warrior 3, Tom Clancy&rsquo;s Ghost Recon Wildlands и Nier: Automata.&nbsp;В&nbsp;настоящий момент никаких заявлений по этому поводу от Electronic Arts или Denuvo Solutions не поступило.
+Источник:ADSLZone
+				

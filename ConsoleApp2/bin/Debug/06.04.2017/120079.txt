@@ -1,0 +1,19 @@
+$$EKWB выпустила водоблок для видеокарт EVGA GeForce GTX 1080/GTX 1070 FTW2$$
+
+					Словенская компания EK Water Blocks объявила о доступности водоблока полного покрытия для видеокарт GeForce GTX 1080/1070 линейки FTW2 производства американской компании EVGA. Охладитель носит название EK-FC1080 GTX FTW2, и занимается отводом тепла от графического процессора Nvidia GP104, микросхем памяти, а также силовых элементов системы питания.
+
+Контактная пластина водоблока изготавливается из никелированной меди, а его крышка может быть выполнена из прозрачного акрила c 3-мм прорезями для светодиодных или ацетали. EK-FC1080 GTX FTW2 совместим с фитингами типоразмера G1/4, а в комплект поставки входят все необходимые крепления, термопрокладки, а также термопаста EK-TIM Ectotherm. Новинка совместима со следующими видеокартами:
+
+EVGA GeForce GTX 1070 FTW DT Gaming ACX 3.0 8GB GDDR5 (08G-P4-6274);
+EVGA GeForce GTX 1070 FTW Gaming ACX 3.0 8GB GDDR5 (08G-P4-6276);
+EVGA GeForce GTX 1070 FTW Hybrid Gaming 8GB GDDR5 (08G-P4-6278);
+EVGA GeForce GTX 1070 FTW2 Gaming iCX 8GB GDDR5X (08G-P4-6676);
+EVGA GeForce GTX 1070 FTW2 DT Gaming iCX 8GB GDDR5 (08G-P4-6674);
+EVGA GeForce GTX 1080 FTW DT Gaming ACX 3.0 8GB GDDR5X (08G-P4-6284);
+EVGA GeForce GTX 1080 FTW Gaming ACX 3.0 8GB GDDR5X (08G-P4-6286);
+EVGA GeForce GTX 1080 FTW Hybrid Gaming 8GB GDDR5X (08G-P4-6288);
+EVGA GeForce GTX 1080 FTW2 Gaming iCX 8GB GDDR5X (08G-P4-6686);
+EVGA GeForce GTX 1080 FTW2 DT Gaming iCX 8GB GDDR5X (08G-P4-6684).
+
+Приобрести водоблок EK-FC1080 GTX FTW2 можно в официальном интернет-магазине EKWB по цене около 100 евро.
+				
